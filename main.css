@@ -157,8 +157,10 @@ body {
 } */
 
 .capimg {
-  width: 40%;
+  width: 600px;
+  height: 350px;
 }
+
 
 .capimg img {
   width: 100%;
